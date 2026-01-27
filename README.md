@@ -44,3 +44,23 @@ Implemented and compared:
 - Linear Regression coefficient-based feature importance
 
 ## 📁 Repository Structure
+smart-crop-prediction/
+│
+├── README.md
+├── requirements.txt
+├── data/
+│   └── your_dataset.csv
+│
+├── notebooks/
+│   └── smart_crop_prediction.ipynb
+│
+├── src/
+│   ├── preprocessing.py
+│   ├── modeling.py
+│   ├── evaluation.py
+│   └── visualization.py
+│
+└── images/
+    ├── residual_plot.png
+    ├── predicted_vs_actual.png
+    └── feature_importance.png
